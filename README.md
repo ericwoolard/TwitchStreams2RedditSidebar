@@ -29,9 +29,8 @@ and the client_secret will be next to the 'Secret:' label.
 1. In `cfg/accounts.json` add the Reddit client_id, client_secret, username and password for the Reddit account you created the app under.
 2. In `cfg/accounts.json` add your Twitch API key.
 3. In `cfg/settings.json` add your subreddit name and the name of the primary bot reddit account (username).
-4. An example sidebar template can be seen in `cfg/sidebar.txt`. The script uses the `__LIVESTREAMS__` text to replace with the stream list.
-  * Note that this file is the template that is used every time you run the script. If you need to edit something in the sidebar outside of the streams list, you'll need to do so in this file, *NOT* on Reddit directly,
-  or this will just overwrite it the next time it runs.
+4. An example sidebar template can be seen in `cfg/sidebar.txt`. The script uses the `__LIVESTREAMS__` text to replace with the stream list. **Note** - this file is the template that is used every time you run the 
+script. If you need to edit something in the sidebar outside of the streams list, you'll need to do so in this file, *NOT* on Reddit directly, or this will just overwrite it the next time it runs.
 5. `cfg/templates.json` is the default template for the markdown that gets placed in the sidebar for each stream. You may edit this if you like, It's mainly used this way for our current styling on r/GlobalOffensive.
 
 Running the script
