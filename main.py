@@ -74,7 +74,6 @@ if livestreams['spritesheet_path'] is not None:
 if cache.read('sidebar_markdown.txt') != sidebar:
     startTime = time()
     log.log('Uploading sidebar markdown...')
-    # r.update_settings(subreddit=subreddit, description=sidebar)
     subreddit.mod.update(description=sidebar)
     cache.save('sidebar_markdown.txt', sidebar)
     log.log('\t... done! \BLUE(%s s)' % str(round(time() - startTime, 3)))
