@@ -39,7 +39,7 @@ Start the script *from within the top-most folder* by entering `python main.py` 
 **Note** - From your command prompt, you will need to `cd` (Change Directory command) into the directory where the script is saved. See the tip below if you don't know how to do this.
 
 On Linux systems, you may automate the script every 5 minutes from a crontab. If you're unsure what a crontab/job is, Google is your friend. To create a simple cronjob that runs this
-script every 5 minutes:
+script every 5 minutes, add this line to your crontab:
 
 `*/5 * * * * python /path/to/scripts/main.py`
 
