@@ -1,0 +1,12 @@
+{
+    "primary_bot": {
+        "client_id": "CLIENT_ID",
+        "client_secret": "CLIENT_SECRET",
+        "username": "USERNAME",
+        "password": "PASSWORD",
+        "user_agent": "Script to add twitch livestreams to a subreddit sidebar"
+    },
+    "api_key": {
+        "twitch": "TWITCH_API_KEY"
+    }
+}

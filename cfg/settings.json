@@ -1,0 +1,22 @@
+{
+    "use_wiki": false,
+    "dev_mode": false,
+    "sidebar": {
+        "livestreams": {
+            "max_shown": 7,
+            "games": [
+                "Counter-Strike: Global Offensive"
+            ],
+            "show_thumbnails": true,
+            "spritesheet_name": "stream-images",
+            "services": [
+                "twitch"
+            ],
+            "none_message": "No streams are currently live",
+            "see_all_link": "http:\/\/bit.ly\/1rXZ9v3"
+        },
+        "update_interval_mins": 5
+    },
+    "subreddit": "SUBREDDIT_NAME",
+    "primary_bot": "BOT_REDDIT_ACCOUNT_NAME"
+}

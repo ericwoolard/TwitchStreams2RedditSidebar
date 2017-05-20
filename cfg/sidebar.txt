@@ -1,0 +1,53 @@
+[*New? Questions? Click here!*](/r/GlobalOffensive/wiki/index#heading#intro)
+
+[Subreddit Rules](https://www.reddit.com/r/GlobalOffensive/about/rules/#rules#button)
+[Message Moderators](http://goo.gl/oEG7Pb#mods#button)
+
+> * Our Social Media
+> * [](http://goo.gl/Yrc6kr)
+> * [](http://goo.gl/fwu1eP)
+> * [](http://goo.gl/bHoLLk)
+
+[*Content Filters*](#heading)
+
+ |  | 
+---|---
+[eSports Only](https://goo.gl/kFjG8S#filter#esports) | [No eSports](https://goo.gl/yiUXA8#filter#no-esports)
+[Highlights](https://goo.gl/JnHgxD#filter#highlights) | [No Highlights](https://goo.gl/uTjcpN#filter#no-highlights)
+[Unfiltered](http://goo.gl/yRWmZB#filter#unfiltered) | [More Filters...](http://goo.gl/3Zc2H0#filter)
+
+[](#/RES_SR_Config/NightModeCompatible)
+
+__LIVESTREAMS__
+
+[*Resources*](#heading)
+
+[Matchmaking: __MM_STATUS__](http://steamstat.us#button#mm-__MM_STATUS_URL__)
+
+[Wiki](/r/GlobalOffensive/wiki/index#wiki#button)
+
+[Chat (IRC)](/r/GlobalOffensive/wiki/irc#irc#button)
+
+[Chat (Discord)](http://discord.gg/globaloffensive#discord#button)
+
+[VODs](http://bit.ly/1tnDX4K#vods#button)
+
+[Demos](http://bit.ly/1wLGhVx#demos#button)
+
+[*Subreddits*](#heading)
+
+[CSeventVODs](/r/CSeventVODs#vods#button)
+
+[GlobalOffensiveTrade](/r/globaloffensivetrade#trade#button)
+
+[RecruitCS](/r/recruitcs#recruitcs#button)
+
+[CSmapmakers](/r/csmapmakers#csmapmakers#button)
+
+[RandomActsOfCSGO](/r/randomactsofcsgo#gathers#button)
+
+[CSWorkshop](/r/csworkshop#workshop#button)
+
+__NOTICES__
+
+* [Banner by /u/twerkingcheesepuff](https://www.reddit.com/r/GlobalOffensive/comments/4zxyn0/-/d71g2to)
